@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleWebAPI", "SampleWebAPI\SampleWebAPI.csproj", "{1F806A25-DFD3-48FA-8929-5548AC437B21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentalControllerTest", "CarRentalControllerTest\CarRentalControllerTest.csproj", "{AD467FB0-67F5-463C-8D16-DC41FCE52380}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F806A25-DFD3-48FA-8929-5548AC437B21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F806A25-DFD3-48FA-8929-5548AC437B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F806A25-DFD3-48FA-8929-5548AC437B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F806A25-DFD3-48FA-8929-5548AC437B21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD467FB0-67F5-463C-8D16-DC41FCE52380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD467FB0-67F5-463C-8D16-DC41FCE52380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD467FB0-67F5-463C-8D16-DC41FCE52380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD467FB0-67F5-463C-8D16-DC41FCE52380}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B96E5E4E-C328-4C7E-9B14-3A987D47A8BC}
+	EndGlobalSection
+EndGlobal
